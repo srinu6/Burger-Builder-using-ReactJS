@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Deployment link:
 
+   <a href='https://srinu6.github.io/BurgerBuilder/'>https://srinu6.github.io/BurgerBuilder/</a>
+   
 ## Available Scripts
 
 In the project directory, you can run:
